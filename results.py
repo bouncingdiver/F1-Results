@@ -1,5 +1,5 @@
 import fastf1
-fastf1.Cache.enable_cache('C:/Programming/ProjectBoredom/F1/Cache')
+fastf1.Cache.enable_cache('C:/Programming/F1/Cache')
 need_name = False
 
 round_number = input ('Round number (type NAME if you would rather input the name):\n')
